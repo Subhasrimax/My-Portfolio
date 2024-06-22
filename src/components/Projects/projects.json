@@ -1,0 +1,23 @@
+[
+  {
+    "title": "DDoS Attack Prediction App",
+    "imageSrc": "projects/project.png",
+    "description": "Machine Learning-Based Detection of Botnet DDoS Attacks: An Evaluation of Performance.",
+    "skills": ["Python", "Streamlit", "Machine Learning"],
+    "source": "https://github.com/Subhasrimax/DDoS-Attack-Prediction"
+  },
+  {
+    "title": "Authentication App",
+    "imageSrc": "projects/project.png",
+    "description": "A Full Stack Web Application which keeps and displays messages of the users anonymously.",
+    "skills": ["HTML", "CSS", "Nodejs", "MongoDB"],
+    "source": "https://github.com/Subhasrimax/Secrets"
+  },
+  {
+    "title": "UI design - Super Admin Dashboard for Bio-Medical Application",
+    "imageSrc": "projects/project.png",
+    "description": "This is a super admin dashboard where doctors and admin can have access over patients data.",
+    "skills": ["Figma", "UI/UX"],
+    "source": "https://www.figma.com/proto/w7Ak7S6CuGicoOSael3sTW/Super-Admin-Dashboard?type=design&node-id=241-641&t=SwK865I9vi768QVQ-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=203%3A3"
+  }
+]

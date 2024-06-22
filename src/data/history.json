@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Python Developer Intern",
+    "organisation": "Digitap",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on with Common Account Detection"],
+    "imageSrc": "history/digitap.png"
+  },
+  {
+    "role": "Bio-mechanics & App Development Intern",
+    "organisation": "bEarly Technovations",
+    "startDate": "Dec, 2023",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Worked on with Data Analysis using Python",
+      "Helped to create UI components using HTML, CSS, JavaScript, Reactjs, AWS Cloud",
+      "Helped to create UI design using Figma"
+    ],
+    "imageSrc": "history/bEarly.png"
+  }
+]
