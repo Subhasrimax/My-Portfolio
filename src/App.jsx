@@ -5,7 +5,9 @@ import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
+import { Awards } from "./components/Awards/awards"
 import { Education } from "./components/Education/education";
+
 function App() {
   return (
     <div className={styles.App}>
@@ -15,6 +17,7 @@ function App() {
       <Education/>
       <Experience />
       <Projects />
+      <Awards />
       <Contact />
     </div>
   );
