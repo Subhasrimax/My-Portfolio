@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Subhasri</h1>
         <p className={styles.description}>
-        I am a tech enthusiast who love to build things. 
+        I am a tech enthusiast who loves to build things. 
         Web and Software developer, Machine learning, Data Science, 
         Data Analytics, Cloud, Cyber security and finance enthusiast. 
         Challenge seeker, continuous learner, 
