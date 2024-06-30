@@ -50,6 +50,11 @@ form button{
     border-radius: 30px;
 }
 
+form button:hover {
+    background-color: white;
+    color: black;
+}
+
 @media screen and (max-width: 830px) {
     .container {
       flex-direction: column;
