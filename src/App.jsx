@@ -7,6 +7,7 @@ import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Awards } from "./components/Awards/awards"
 import { Education } from "./components/Education/education";
+import { ContactForm } from "./components/ContactForm/ContactForm"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Experience />
       <Projects />
       <Awards />
+      <ContactForm />
       <Contact />
     </div>
   );
