@@ -4,7 +4,13 @@
     "organisation": "Digitap",
     "startDate": "May, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on with Common Account Detection"],
+    "experiences": ["Developed high-performance DB solutions for fintech, managing 20M+ records with 98% uptime.",
+        "Optimized EComm & Account Detection APIs, cutting response times by 30% (avg. 200ms).",
+        "Conducted data analysis and web scraping, driving 25% business growth.",
+        "Improved DB-building cron server, reducing costs by 15% and optimizing resource use.",
+        "Built cron databases for daily request data, ensuring timely insights.",
+        "Utilized AWS (Lambda, CloudWatch, EC2, RDS, S3) for scalable, secure solutions."
+  ],
     "imageSrc": "history/digitap.png"
   },
   {
