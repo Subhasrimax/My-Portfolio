@@ -6,6 +6,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Awards } from "./components/Awards/awards"
+import { Skills } from "./components/skills/skills";
 import { Education } from "./components/Education/education";
 import { ContactForm } from "./components/ContactForm/ContactForm"
 
@@ -16,6 +17,7 @@ function App() {
       <Hero />
       <About />
       <Education/>
+      <Skills/>
       <Experience />
       <Projects />
       <Awards />
